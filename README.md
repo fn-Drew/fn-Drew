@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 
-<p align="left"> <a href="https://twitter.com/ctrl_drew" target="blank"><img src="https://img.shields.io/twitter/follow/ctrl_drew?logo=twitter&style=for-the-badge" alt="ctrl_drew" /></a> </p>
-
-- 🔭 I’m currently working on [Real-time chat app](https://github.com/fn-Drew/socket.io-chat-app)
+- 🔭 I’m currently working on a [Real-time chat app](https://github.com/fn-Drew/socket.io-chat-app)
 
 - 🌱 I’m currently learning **Back-End Developement and UI Design**
 
-- 💬 Ask me about **React, Tailwind CSS, Vim**
+- 💬 Ask me about **React, Tailwind CSS, MongoDB**
 
 - 📫 How to reach me **alutter03@gmail.com**
 
