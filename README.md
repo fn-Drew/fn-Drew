@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **React, Tailwind CSS, MongoDB**
 
-- 📫 How to reach me **alutter03@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ctrl_drew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrl_drew" height="30" width="40" /></a>
